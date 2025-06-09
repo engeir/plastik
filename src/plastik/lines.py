@@ -17,8 +17,8 @@ def get_linestyle_dict() -> dict[str, str | tuple]:
     See <https://matplotlib.org/stable/gallery/lines_bars_and_markers/linestyles.html>.
     """
     return {
-        "dotted": (0, (1, 1)),  # :
         "dashed": (0, (3, 1)),  # --
+        "dotted": (0, (1, 1)),  # :
         "dashdot": (0, (5, 1, 1, 1)),  # -.
         "long dash": (0, (6, 2)),
         "densely dashdotted": (0, (4, 2, 1, 2)),
