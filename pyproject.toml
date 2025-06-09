@@ -1,6 +1,6 @@
 [project]
 name = "plastik"
-version = "0.11.0"
+version = "0.11.1"
 description = "plastic surgery for plt"
 authors = [{ name = "engeir", email = "engeir@pm.me" }]
 license = { file = "LICENSE" }
